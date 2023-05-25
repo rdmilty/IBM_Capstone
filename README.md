@@ -10,7 +10,6 @@ SpaceX, a leader in the space industry, strives to make space travel affordable 
 ## Explore
 * How payload mass, launch site, number of flights, and orbits affect first-stage landing success
 * Rate of successful landings over time
-* Best predictive model for successful landing (binary classification)
 
 ## Executive Summary
 The research attempts to identify the factors for a successful rocket landing. To make this determination, the following methodologies where used:
